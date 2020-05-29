@@ -1,0 +1,22 @@
+plugins {
+  id 'java'
+  id 'application'
+}
+
+application {
+  mainClassName = 'run.AdditionalTask'
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+	implementation group: 'org.reflections', name: 'reflections', version: '0.9.10'
+}
+
+jar {
+  manifest {
+      attributes 'Main-Class': 'run.AdditionalTask'
+  }
+}

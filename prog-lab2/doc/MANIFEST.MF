@@ -1,0 +1,2 @@
+Main-Class: Battleground
+Class-Path: lib/Pokemon.jar

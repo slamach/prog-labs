@@ -1,0 +1,14 @@
+plugins {
+  id 'java'
+  id 'application'
+}
+
+application {
+  mainClassName = 'run.Story'
+}
+
+jar {
+  manifest {
+      attributes 'Main-Class': 'run.Story'
+  }
+}
