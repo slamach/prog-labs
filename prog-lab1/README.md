@@ -1,4 +1,4 @@
-# Project 1
+# Programming project #1
 
 Variant: 824729
 

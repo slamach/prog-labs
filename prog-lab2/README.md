@@ -1,4 +1,4 @@
-# Project 2
+# Programming project #2
 
 Variant: ядалвариант
 
