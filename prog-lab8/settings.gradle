@@ -1,0 +1,2 @@
+rootProject.name = 'prog-lab8'
+include 'common', 'server', 'client'
