@@ -1,5 +1,3 @@
-# Programming project #7
+# Лабораторная работа #7 (18482)
 
-Variant: 18482
-
-![Task](https://github.com/slamach/prog-labs/blob/master/prog-lab7/doc/task.png?raw=true)
+![Задание](https://github.com/slamach/prog-labs/blob/master/prog-lab7/doc/task.png?raw=true)
