@@ -1,5 +1,3 @@
-# Programming project #8
+# Лабораторная работа #8 (68641)
 
-Variant: 68641
-
-![Task](https://github.com/slamach/prog-labs/blob/master/prog-lab8/doc/task.png?raw=true)
+![Задание](https://github.com/slamach/prog-labs/blob/master/prog-lab8/doc/task.png?raw=true)
